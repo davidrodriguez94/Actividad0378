@@ -55,7 +55,6 @@ public class Picture
         sun.moveVertical(-40);
         sun.changeSize(80);
         sun.makeVisible();
-        sun.slowMoveVertical(40);
         
         grass = new Circle();
         grass.changeColor("green");
